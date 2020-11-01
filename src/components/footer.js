@@ -6,7 +6,7 @@ const Footer = ({ author, profile }) => (
         Made with 
         
         <i className="em em-heart" style={{width: '15px', height: '15px'}}></i>
-        <a href="https://github.com/shibam17"> @Shibam</a>
+        <a href="https://github.com/loveneeshdhir"> @lovneeshdhir</a>
     </footer>
 )
 

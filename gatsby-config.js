@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'FirstCommit',
-    author: 'ShibamDhar',
-    profile: 'https://github.com/shibam17',
+    author: 'loveneeshdhir',
+    profile: 'https://github.com/loveneeshdhir',
     siteUrl: `https://firstcommit.org`
   },
   plugins: [
