@@ -13,9 +13,9 @@ const IndexPage = () => (
     
     <h3>Step 1</h3>
     <p>
-      Goto the <a target="_blank" href="https://github.com/loveneeshdhir/First-Commit"> GitHub repository </a> of this project and fork the project to your account. <i className="em em-knife_fork_plate"></i>  
+      Goto the <a target="_blank" href="https://github.com/shibam17/First-Commit"> GitHub repository </a> of this project and fork the project to your account. <i className="em em-knife_fork_plate"></i>  
        Click on the fork button on the top right corner of the repository page to do it. Once done, GitHub will take you to the forked copy in your account.
-      <Code code="https://github.com/loveneeshdhir/First-Commit"/>
+      <Code code="https://github.com/shibam17/First-Commit"/>
     </p>
     <h3>Step 2</h3>
     <p>
@@ -38,7 +38,7 @@ const IndexPage = () => (
     <h3>Step 4</h3>
     <p>
       In your <i className="em em-card_file_box"></i> file manager/terminal navigate to the downloaded repo. Open the sub-directory <i className="em em-file_folder"></i><b>src/profiles/</b>. and create a new <b>.md</b> file with your username as the filename with <b>.md</b> extension.<br/>
-      It should look like <b>YOUR_USER_NAME.md</b> <i>eg: loveneeshdhir.md </i><br/>
+      It should look like <b>YOUR_USER_NAME.md</b> <i>eg: shibam17.md </i><br/>
       Open this file in your favourite editor and fill the details as below in the frontmatter of the markdown file.
       <br/>
       <i className="em em-page_facing_up"></i><i>YOUR_USER_NAME.md</i>
@@ -66,7 +66,7 @@ const IndexPage = () => (
     </p>
     <h3>Step 7</h3>
     <p>
-      Now, open your web browser and goto the <a target="_blank" href="https://github.com/loveneeshdhir/First-Commit"> original repository on GitHub</a>. If your changes has been pushed to your forked copy, You'll be able to see an option saying "New Pull Request" in the original repository.
+      Now, open your web browser and goto the <a target="_blank" href="https://github.com/shibam17/First-Commit"> original repository on GitHub</a>. If your changes has been pushed to your forked copy, You'll be able to see an option saying "New Pull Request" in the original repository.
       Click on the option, one next page choose the master branch of the main repo against your created-branch name ( choose your branch name we created and not master). the click on create pull request. Once you fill in the commit message and comment click on submit pull request. <br/>
       and you are all done! <i className="em em-confetti_ball"></i> Wait for a reviewer to review your file and merge it to the master. Once its been successfully merged, your profile will be visible in the submissions tab. <i className="em em-trophy"></i>
     </p>
